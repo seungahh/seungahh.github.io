@@ -25,10 +25,11 @@ plainwhite:
     - page
     - post
   # generate social links in footer
-  social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
+   navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
@@ -59,10 +60,3 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-
-
-  navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
