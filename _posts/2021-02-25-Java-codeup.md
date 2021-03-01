@@ -111,8 +111,7 @@ public class Main {
 
 **입력 예시: x b k d l q g a c**
 
-**출력 예시 : 
-x<br> b<br> k<br> d<br> l<br> q**
+**출력 예시 : <br> x<br> b<br> k<br> d<br> l<br> q**
 ```java
 
 import java.util.Scanner;
